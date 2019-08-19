@@ -1,4 +1,4 @@
-## Scott Dominguez
+# Scott Dominguez
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
